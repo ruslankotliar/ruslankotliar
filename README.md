@@ -1,16 +1,35 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://github.com/ruslankotliar/ruslankotliar/blob/main/images/hi.gif" width="30px">
+</p>
 
-<!--
-**ruslankotliar/ruslankotliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Ruslan Kotliarenko 👋</h1>
+<p align="center">Certified Full-Stack Engineer</p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-kotliarenko)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/ruslan_kotliar/)
+
+</div>
+
+---
+
+## 👨‍💻 Key Skills
+
+- JavaScript / TypeScript
+- React.js / Next.js
+- Node.js
+- MongoDB / PostgreSQL
+- GraphQL / Apollo
+- Redux.js
+- MUI / Tailwind CSS / styled-components
+- Amazon S3 / Firebase
+- Docker / REST APIs
+
+---
+
+<div align="center">
+
+⭐️ From [Ruslan Kotliarenko](https://github.com/ruslankotliar)
+
+</div>
