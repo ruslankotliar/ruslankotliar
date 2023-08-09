@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="300" height="268"</img>
-</p>
-
 <h1 align="center">Ruslan Kotliarenko 👋</h1>
 <p align="center">Certified Full-Stack Engineer</p>
 
