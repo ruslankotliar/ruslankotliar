@@ -1,5 +1,5 @@
 <p align="center">
-    <iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="300" height="268"</img>
 </p>
 
 <h1 align="center">Ruslan Kotliarenko 👋</h1>
