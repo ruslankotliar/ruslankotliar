@@ -19,5 +19,5 @@
 - GraphQL / Apollo
 - Redux.js
 - MUI / Tailwind CSS / styled-components
-- Amazon S3 / Firebase
 - Docker / REST APIs
+- Amazon (S3 / Lambda / IAM / ECR / API Gateway)
