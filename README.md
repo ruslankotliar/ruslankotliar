@@ -12,12 +12,14 @@
 
 ## 👨‍💻 Key Skills
 
-- JavaScript / TypeScript
+- JavaScript / TypeScript / Python
+- HTML / CSS (SCSS)
 - React.js / Next.js
-- Node.js
+- Node.js / Express.js
 - MongoDB / PostgreSQL
 - GraphQL / Apollo
-- Redux.js
-- MUI / Tailwind CSS / styled-components
-- Docker / REST APIs
+- Redux.js / React Query
+- MUI / Chakra UI / Ant Design
+- Tailwind CSS / Chart.js / styled-components
+- Docker / Git / REST APIs
 - Amazon (S3 / Lambda / IAM / ECR / API Gateway)
