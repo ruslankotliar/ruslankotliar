@@ -22,4 +22,4 @@
 - MUI / Chakra UI / Ant Design
 - Tailwind CSS / Chart.js / styled-components
 - Docker / Git / REST APIs
-- Amazon (S3 / Lambda / IAM / ECR / API Gateway)
+- AWS
