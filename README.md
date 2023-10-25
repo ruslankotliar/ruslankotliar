@@ -1,5 +1,5 @@
 <h1 align="center">Ruslan Kotliarenko 👋</h1>
-<p align="center">Certified Full-Stack Engineer</p>
+<p align="center">Certified Software Engineer</p>
 
 <div align="center">
 
