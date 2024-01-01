@@ -18,7 +18,7 @@
 ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white&style=flat-square)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-👨‍💻 Full Stack Developer | 🎓 B.Sc. CS Student
+👨‍💻 Software Engineer | 🎓 B.Sc. CS Student
 
 ## 🚀 Certifications
 - MongoDB Certified Associate Developer, Nov 2023
